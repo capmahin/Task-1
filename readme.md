@@ -17,3 +17,12 @@ To start the development server, run the following command:
 npm run dev
 ```
 This will start the server and open your default browser to your localhost. The site will reload automatically as you make changes to your code.
+
+<!-- Core functionality of the project
+Technical implementation details
+HTML structure
+JavaScript components (scene setup, rendering system, camera controls, animation loop)
+Styling features
+Development environment
+Available npm scripts
+How to use the project -->
